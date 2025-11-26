@@ -1,0 +1,26 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (if you don't want to commit datasets)
+*.csv
+*.xlsx
+
+# IDE specific files (VS Code, PyCharm)
+.vscode/
+.idea/
